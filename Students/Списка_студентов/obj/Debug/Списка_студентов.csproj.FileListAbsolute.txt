@@ -1,0 +1,11 @@
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\bin\Debug\Списка_студентов.exe.config
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\bin\Debug\Списка_студентов.exe
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\bin\Debug\Списка_студентов.pdb
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.Form1.resources
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.Properties.Resources.resources
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.csproj.GenerateResource.cache
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.exe
+C:\Users\shurk\Desktop\Работы\prakt11-12\Списка_студентов\Списка_студентов\obj\Debug\Списка_студентов.pdb
